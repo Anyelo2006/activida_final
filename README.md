@@ -1,8 +1,9 @@
 # 🚗 Sistema de Gestión de Vehículos - Uniguajira
 **Estudiante:** Anyelo  
-**Facultad:** Ingeniería de Sistemas  
-**Asignatura:** Programación Orientada a Objetos (POO)  
-**Corte:** #1
+**Facultad:** Ingeniería
+**programa:**ingenieria en sistema 
+**Asignatura:** Programacion avanzada  
+
 
 ---
 
