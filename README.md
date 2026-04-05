@@ -1,8 +1,8 @@
 # 🚗 Sistema de Gestión de Vehículos - Uniguajira
-**Estudiante:** Anyelo  
-**Facultad:** Ingeniería
-**programa:**ingenieria en sistema 
-**Asignatura:** Programacion avanzada  
+**Estudiante:  Anyelo  
+**Facultad:  Ingeniería
+**programa: ingenieria en sistema 
+**Asignatura: Programacion avanzada  
 
 
 ---
