@@ -17,5 +17,4 @@ La clase `VehiculoFinal` integra los siguientes módulos:
 2.  **Mantenimiento:** Seguimiento de fechas de revisión técnica.
 3.  **Seguridad:** Validación de pólizas de seguro activas.
 
----
-> [cite_start]**Nota para el Evaluador:** El código incluye el bloque `if __name__ == "__main__":` para realizar pruebas automáticas de encapsulamiento y polimorfismo según los criterios exigidos[cite: 15, 46].
+
