@@ -1,8 +1,8 @@
 # 🚗 Sistema de Gestión de Vehículos - Uniguajira
-* **Estudiante:** Anyelo Rodriguez
-* [cite_start]**Facultad:** Ingeniería [cite: 7, 34]
-* [cite_start]**Programa:** Ingeniería de Sistemas [cite: 7, 34]
-* [cite_start]**Asignatura:** Programación Avanzada [cite: 11]
+* **Estudiante:** Anyelo Rodríguez
+* **Facultad:** Ingeniería
+* **Programa:** Ingeniería de Sistemas
+* **Asignatura:** Programación Avanzada
 ---
 
 ## 📝 Descripción del Proyecto
