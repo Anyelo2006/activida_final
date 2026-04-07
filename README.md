@@ -13,6 +13,3 @@ El programa lo que hace es recibir un nombre de un proyecto y cuántas imágenes
 * **Validación:** Le puse una regla para que si alguien intenta poner 0 o menos imágenes, el programa saque un error y no deje seguir.
 * **Funciones extra:** Use algo llamado Mixins para que el programa pueda poner "filtros de brillo" y "avisar al correo" cuando termine, pero sin revolver todo el código principal.
 * **Plano base:** Cree una base general para que todos los videos que se hagan sigan las mismas reglas.
-
-## Cómo probarlo:
-Solo hay que darle a "Play" en Python y en la pantallita de abajo saldrá el proceso del render con el nombre que le puse de ejemplo.
